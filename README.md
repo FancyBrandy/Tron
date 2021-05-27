@@ -10,3 +10,4 @@ can choose the color their light traces. The game increase the counter of the wi
 database at the end of the game. If the player does not exit in the database yet, then insert
 a record for him. The menu item, which displays a highscore table of the players for
 the 10 best scores.
+We also have database in this game
